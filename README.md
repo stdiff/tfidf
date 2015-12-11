@@ -1,6 +1,6 @@
 # Recommender System without collaborative filtering
 
-This GitHub repository is for reproducing the results of the report "[Recommender System without collaborative filtering](http://stdiff.net/?tfidf)". 
+This GitHub repository is for reproducing the results of the report "[Recommender System without collaborative filtering](http://stdiff.net/?recom_sys)". 
 
 ## Data
 
