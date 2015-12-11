@@ -66,10 +66,3 @@ This scripts computes the preference vector and compute the scalar product of th
 
 This scripts calculates the scores by using the mean distances and produce a histogram of the scores. The script also adds the result into evaluation-test.csv after the scores are normalised.
 
-
-
-
-
-result.csv
-best.csv
-
